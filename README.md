@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Udayasiri11
-- 👀 I’m interested in creating web pages
-- 🌱 I’m currently learning html, css and js
+- 👀 I’m interested in playing with excel, power bi, sql.
+- 🌱 I’m currently going through the bootcamp on data analytics from code basics
 - 💞️ I’m looking to collaborate on product based companies
 - 📫 How to reach me is through mail-udayasiri2002@gmail.com
 
